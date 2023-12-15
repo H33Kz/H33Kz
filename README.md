@@ -8,4 +8,4 @@
 
 <p>Skills that i want to acquire in the future:</p>
 
-[![skills](https://skillicons.dev/icons?i=react,kotlin)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=react,kotlin,golang)](https://skillicons.dev)
