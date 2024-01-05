@@ -4,7 +4,7 @@
 
 <p>My current set of skills:</p>
 
-[![My Skills](https://skillicons.dev/icons?i=git,java,golang,spring,hibernate,maven,mysql,postman,py,flask,html,css,js,bootstrap,bash,powershell,linux,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang,git,java,spring,maven,mysql,py,flask,linux,neovim,bash,html,css,js,bootstrap)](https://skillicons.dev)
 
 <p>Skills that i want to acquire in the future:</p>
 
